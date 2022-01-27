@@ -15,17 +15,15 @@ body, html{
 
 body{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    background: white;
 }
 
 a{
     text-decoration: none;
 }
 
-
-
 #pagina-1 {
-    background-image: url(..//img/manhattan-new-york-city-4k-je.jpg);
+    background-image: url(../img/1.png);
+    background-color: #4A6670;
     position: relative;
     height: 100%;
     opacity: 0.8;
@@ -35,8 +33,9 @@ a{
     background-attachment: fixed;
 }
 
-#pagina-2{
-    background-image: url(../img/156-1567249_wallpaper-new-york-street-skyscraper-garland-ultra-hd.jpg);
+#pagina-2{    
+    background-image: url(../img/1.png);
+    background-color: #4A6670;
     position: relative;
     height: 100%;
     opacity: 0.8;
@@ -47,7 +46,8 @@ a{
     z-index: 2;
 }
 #pagina-3{
-    background-image: url(../img/USA-New-York-Central-Park-skyscrapers-lawn-trees-autumn_3840x2160.jpg);
+    background-image: url(../img/1.png);
+    background-color: #4A6670;
     position: relative;
     height: 100%;
     opacity: 0.8;
